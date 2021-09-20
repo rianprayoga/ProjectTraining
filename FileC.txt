@@ -1,2 +1,6 @@
 add text to c
+
 Add text in C branch fitur-baru
+
+add text to c in master
+
