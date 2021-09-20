@@ -2,3 +2,4 @@ Add text in A
 Add text in A in master
 Add new line
 Add text in A in master again
+Add text in A in master again and again
