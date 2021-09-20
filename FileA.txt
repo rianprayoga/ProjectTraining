@@ -3,3 +3,4 @@ Add text in A in master
 Add new line
 Add text in A in master again
 Add new line locally
+Add text in A in master again and again
